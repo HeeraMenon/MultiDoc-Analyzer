@@ -1,4 +1,4 @@
-# Automated Textual Summarization
+# MultiDoc-Analyzer
 
 
 
