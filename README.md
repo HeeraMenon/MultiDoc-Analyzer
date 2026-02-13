@@ -1,4 +1,4 @@
-# MultiDoc-Analyzer
+# MultiDoc Analyzer
 
 This system takes three types of documents - research articles, news articles and legal documents
 
